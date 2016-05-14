@@ -183,3 +183,252 @@
 {"level":"notice","message":"Starting server: `websocket`","timestamp":"2016-05-14T18:23:19.399Z"}
 {"level":"notice","message":"environment: development","timestamp":"2016-05-14T18:23:19.915Z"}
 {"level":"notice","message":"*** Server Started ***","timestamp":"2016-05-14T18:23:19.916Z"}
+{"level":"info","message":"*** rebooting due to config change (/home/usuario/documents/Desarrollo_Oktacore/testAPIAH/config/mongoose.js) ***","timestamp":"2016-05-14T18:30:41.151Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing...","timestamp":"2016-05-14T18:30:41.151Z"}
+{"level":"notice","message":"Stopping server: web","timestamp":"2016-05-14T18:30:41.152Z"}
+{"level":"notice","message":"Stopping server: websocket","timestamp":"2016-05-14T18:30:41.153Z"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2016-05-14T18:30:41.156Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has left the cluster","timestamp":"2016-05-14T18:30:41.158Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2016-05-14T18:30:41.193Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2016-05-14T18:30:41.195Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has joined the cluster","timestamp":"2016-05-14T18:30:41.200Z"}
+{"level":"notice","message":"pid: 7801","timestamp":"2016-05-14T18:30:41.210Z"}
+{"level":"notice","message":"server ID: 192.168.1.26","timestamp":"2016-05-14T18:30:41.211Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"2016-05-14T18:30:41.216Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"2016-05-14T18:30:41.217Z"}
+{"level":"notice","message":"environment: development","timestamp":"2016-05-14T18:30:41.642Z"}
+{"level":"notice","message":"*** Server Started ***","timestamp":"2016-05-14T18:30:41.644Z"}
+{"level":"info","message":"*** actionhero restarted ***","timestamp":"2016-05-14T18:30:41.644Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing...","timestamp":"2016-05-14T19:43:37.889Z"}
+{"level":"notice","message":"Stopping server: web","timestamp":"2016-05-14T19:43:37.890Z"}
+{"level":"notice","message":"Stopping server: websocket","timestamp":"2016-05-14T19:43:37.891Z"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2016-05-14T19:43:37.893Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2016-05-14T19:43:40.983Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2016-05-14T19:43:41.015Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has joined the cluster","timestamp":"2016-05-14T19:43:41.024Z"}
+{"level":"notice","message":"pid: 9930","timestamp":"2016-05-14T19:43:41.116Z"}
+{"level":"notice","message":"server ID: 192.168.1.26","timestamp":"2016-05-14T19:43:41.116Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"2016-05-14T19:43:41.124Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"2016-05-14T19:43:41.131Z"}
+{"level":"notice","message":"environment: development","timestamp":"2016-05-14T19:43:41.642Z"}
+{"level":"notice","message":"*** Server Started ***","timestamp":"2016-05-14T19:43:41.643Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2016-05-14T19:45:31.639Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2016-05-14T19:45:31.670Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has joined the cluster","timestamp":"2016-05-14T19:45:31.680Z"}
+{"level":"notice","message":"pid: 10015","timestamp":"2016-05-14T19:45:31.770Z"}
+{"level":"notice","message":"server ID: 192.168.1.26","timestamp":"2016-05-14T19:45:31.770Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"2016-05-14T19:45:31.776Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"2016-05-14T19:45:31.783Z"}
+{"level":"notice","message":"environment: development","timestamp":"2016-05-14T19:45:32.275Z"}
+{"level":"notice","message":"*** Server Started ***","timestamp":"2016-05-14T19:45:32.276Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing...","timestamp":"2016-05-14T19:45:46.269Z"}
+{"level":"notice","message":"Stopping server: web","timestamp":"2016-05-14T19:45:46.271Z"}
+{"level":"notice","message":"Stopping server: websocket","timestamp":"2016-05-14T19:45:46.271Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has left the cluster","timestamp":"2016-05-14T19:45:46.274Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2016-05-14T19:46:52.848Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2016-05-14T19:46:52.879Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has joined the cluster","timestamp":"2016-05-14T19:46:52.889Z"}
+{"level":"notice","message":"pid: 10071","timestamp":"2016-05-14T19:46:52.980Z"}
+{"level":"notice","message":"server ID: 192.168.1.26","timestamp":"2016-05-14T19:46:52.980Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"2016-05-14T19:46:52.988Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"2016-05-14T19:46:52.995Z"}
+{"level":"notice","message":"environment: development","timestamp":"2016-05-14T19:46:53.484Z"}
+{"level":"notice","message":"*** Server Started ***","timestamp":"2016-05-14T19:46:53.484Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2016-05-14T19:47:36.676Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2016-05-14T19:47:36.708Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has joined the cluster","timestamp":"2016-05-14T19:47:36.718Z"}
+{"level":"notice","message":"pid: 10104","timestamp":"2016-05-14T19:47:36.809Z"}
+{"level":"notice","message":"server ID: 192.168.1.26","timestamp":"2016-05-14T19:47:36.810Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"2016-05-14T19:47:36.816Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"2016-05-14T19:47:36.823Z"}
+{"level":"notice","message":"environment: development","timestamp":"2016-05-14T19:47:37.318Z"}
+{"level":"notice","message":"*** Server Started ***","timestamp":"2016-05-14T19:47:37.319Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2016-05-14T19:48:48.417Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2016-05-14T19:48:48.449Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has joined the cluster","timestamp":"2016-05-14T19:48:48.458Z"}
+{"level":"notice","message":"pid: 10158","timestamp":"2016-05-14T19:48:48.550Z"}
+{"level":"notice","message":"server ID: 192.168.1.26","timestamp":"2016-05-14T19:48:48.550Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"2016-05-14T19:48:48.557Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"2016-05-14T19:48:48.564Z"}
+{"level":"notice","message":"environment: development","timestamp":"2016-05-14T19:48:49.056Z"}
+{"level":"notice","message":"*** Server Started ***","timestamp":"2016-05-14T19:48:49.057Z"}
+{"to":"127.0.0.1","action":"mongoAction","params":"{\"first_name\":\"Jose\",\"last_name\":\"Estrada\",\"password\":\"12345\",\"action\":\"mongoAction\",\"apiVersion\":1}","duration":1,"level":"info","message":"[ action @ web ]","timestamp":"2016-05-14T19:48:51.212Z"}
+{"level":"info","message":"*** Rebooting due to initializer change (/home/usuario/documents/Desarrollo_Oktacore/testAPIAH/initializers/mongoInit.js) ***","timestamp":"2016-05-14T19:49:42.557Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing...","timestamp":"2016-05-14T19:49:42.557Z"}
+{"level":"notice","message":"Stopping server: web","timestamp":"2016-05-14T19:49:42.559Z"}
+{"level":"notice","message":"Stopping server: websocket","timestamp":"2016-05-14T19:49:42.560Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has left the cluster","timestamp":"2016-05-14T19:49:42.562Z"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2016-05-14T19:49:42.566Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2016-05-14T19:49:42.606Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2016-05-14T19:49:42.608Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has joined the cluster","timestamp":"2016-05-14T19:49:42.612Z"}
+{"level":"notice","message":"pid: 10158","timestamp":"2016-05-14T19:49:42.626Z"}
+{"level":"notice","message":"server ID: 192.168.1.26","timestamp":"2016-05-14T19:49:42.627Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"2016-05-14T19:49:42.632Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"2016-05-14T19:49:42.633Z"}
+{"level":"notice","message":"environment: development","timestamp":"2016-05-14T19:49:43.040Z"}
+{"level":"notice","message":"*** Server Started ***","timestamp":"2016-05-14T19:49:43.041Z"}
+{"level":"info","message":"*** actionhero restarted ***","timestamp":"2016-05-14T19:49:43.041Z"}
+{"to":"127.0.0.1","action":"mongoAction","params":"{\"first_name\":\"Jose\",\"last_name\":\"Estrada\",\"password\":\"12345\",\"action\":\"mongoAction\",\"apiVersion\":1}","duration":2,"error":"[object Object]","level":"info","message":"[ action @ web ]","timestamp":"2016-05-14T19:49:47.996Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2016-05-14T19:50:10.419Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2016-05-14T19:50:10.451Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has joined the cluster","timestamp":"2016-05-14T19:50:10.461Z"}
+{"level":"notice","message":"pid: 10241","timestamp":"2016-05-14T19:50:10.554Z"}
+{"level":"notice","message":"server ID: 192.168.1.26","timestamp":"2016-05-14T19:50:10.555Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"2016-05-14T19:50:10.563Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"2016-05-14T19:50:10.571Z"}
+{"level":"notice","message":"environment: development","timestamp":"2016-05-14T19:50:11.080Z"}
+{"level":"notice","message":"*** Server Started ***","timestamp":"2016-05-14T19:50:11.081Z"}
+{"to":"127.0.0.1","action":"mongoAction","params":"{\"first_name\":\"Jose\",\"last_name\":\"Estrada\",\"password\":\"12345\",\"action\":\"mongoAction\",\"apiVersion\":1}","duration":1,"error":"[object Object]","level":"info","message":"[ action @ web ]","timestamp":"2016-05-14T19:50:13.977Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2016-05-14T19:50:21.636Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2016-05-14T19:50:21.669Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has joined the cluster","timestamp":"2016-05-14T19:50:21.679Z"}
+{"level":"notice","message":"pid: 10263","timestamp":"2016-05-14T19:50:21.770Z"}
+{"level":"notice","message":"server ID: 192.168.1.26","timestamp":"2016-05-14T19:50:21.770Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"2016-05-14T19:50:21.778Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"2016-05-14T19:50:21.785Z"}
+{"level":"notice","message":"environment: development","timestamp":"2016-05-14T19:50:22.301Z"}
+{"level":"notice","message":"*** Server Started ***","timestamp":"2016-05-14T19:50:22.301Z"}
+{"to":"127.0.0.1","action":"mongoAction","params":"{\"first_name\":\"Jose\",\"last_name\":\"Estrada\",\"password\":\"12345\",\"action\":\"mongoAction\",\"apiVersion\":1}","duration":3,"error":"[object Object]","level":"info","message":"[ action @ web ]","timestamp":"2016-05-14T19:50:23.919Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2016-05-14T19:51:58.789Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2016-05-14T19:51:58.823Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has joined the cluster","timestamp":"2016-05-14T19:51:58.834Z"}
+{"level":"notice","message":"pid: 10326","timestamp":"2016-05-14T19:51:58.928Z"}
+{"level":"notice","message":"server ID: 192.168.1.26","timestamp":"2016-05-14T19:51:58.928Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"2016-05-14T19:51:58.936Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"2016-05-14T19:51:58.943Z"}
+{"level":"notice","message":"environment: development","timestamp":"2016-05-14T19:51:59.438Z"}
+{"level":"notice","message":"*** Server Started ***","timestamp":"2016-05-14T19:51:59.439Z"}
+{"to":"127.0.0.1","action":"mongoAction","params":"{\"first_name\":\"Jose\",\"last_name\":\"Estrada\",\"password\":\"12345\",\"action\":\"mongoAction\",\"apiVersion\":1}","duration":2,"error":"[object Object]","level":"info","message":"[ action @ web ]","timestamp":"2016-05-14T19:52:01.813Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2016-05-14T19:52:41.820Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2016-05-14T19:52:41.853Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has joined the cluster","timestamp":"2016-05-14T19:52:41.862Z"}
+{"level":"notice","message":"pid: 10383","timestamp":"2016-05-14T19:52:41.957Z"}
+{"level":"notice","message":"server ID: 192.168.1.26","timestamp":"2016-05-14T19:52:41.958Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"2016-05-14T19:52:41.964Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"2016-05-14T19:52:41.972Z"}
+{"level":"notice","message":"environment: development","timestamp":"2016-05-14T19:52:42.462Z"}
+{"level":"notice","message":"*** Server Started ***","timestamp":"2016-05-14T19:52:42.463Z"}
+{"to":"127.0.0.1","action":"mongoAction","params":"{\"first_name\":\"Jose\",\"last_name\":\"Estrada\",\"password\":\"12345\",\"action\":\"mongoAction\",\"apiVersion\":1}","duration":1,"error":"[object Object]","level":"info","message":"[ action @ web ]","timestamp":"2016-05-14T19:52:43.381Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2016-05-14T19:52:59.539Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2016-05-14T19:52:59.571Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has joined the cluster","timestamp":"2016-05-14T19:52:59.580Z"}
+{"level":"notice","message":"pid: 10419","timestamp":"2016-05-14T19:52:59.677Z"}
+{"level":"notice","message":"server ID: 192.168.1.26","timestamp":"2016-05-14T19:52:59.678Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"2016-05-14T19:52:59.686Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"2016-05-14T19:52:59.693Z"}
+{"level":"notice","message":"environment: development","timestamp":"2016-05-14T19:53:00.183Z"}
+{"level":"notice","message":"*** Server Started ***","timestamp":"2016-05-14T19:53:00.184Z"}
+{"to":"127.0.0.1","action":"mongoAction","params":"{\"first_name\":\"Jose\",\"last_name\":\"Estrada\",\"password\":\"12345\",\"action\":\"mongoAction\",\"apiVersion\":1}","duration":1,"error":"[object Object]","level":"info","message":"[ action @ web ]","timestamp":"2016-05-14T19:53:02.190Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2016-05-14T19:53:30.889Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2016-05-14T19:53:30.921Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has joined the cluster","timestamp":"2016-05-14T19:53:30.929Z"}
+{"level":"notice","message":"pid: 10451","timestamp":"2016-05-14T19:53:31.019Z"}
+{"level":"notice","message":"server ID: 192.168.1.26","timestamp":"2016-05-14T19:53:31.019Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"2016-05-14T19:53:31.026Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"2016-05-14T19:53:31.036Z"}
+{"level":"notice","message":"environment: development","timestamp":"2016-05-14T19:53:31.551Z"}
+{"level":"notice","message":"*** Server Started ***","timestamp":"2016-05-14T19:53:31.552Z"}
+{"to":"127.0.0.1","action":"mongoAction","params":"{\"first_name\":\"Jose\",\"last_name\":\"Estrada\",\"password\":\"12345\",\"action\":\"mongoAction\",\"apiVersion\":1}","duration":3,"error":"[object Object]","level":"info","message":"[ action @ web ]","timestamp":"2016-05-14T19:53:32.727Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2016-05-14T19:54:02.576Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2016-05-14T19:54:02.609Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has joined the cluster","timestamp":"2016-05-14T19:54:02.622Z"}
+{"level":"notice","message":"pid: 10487","timestamp":"2016-05-14T19:54:02.715Z"}
+{"level":"notice","message":"server ID: 192.168.1.26","timestamp":"2016-05-14T19:54:02.716Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"2016-05-14T19:54:02.723Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"2016-05-14T19:54:02.731Z"}
+{"level":"notice","message":"environment: development","timestamp":"2016-05-14T19:54:03.231Z"}
+{"level":"notice","message":"*** Server Started ***","timestamp":"2016-05-14T19:54:03.232Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2016-05-14T19:54:48.665Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2016-05-14T19:54:48.697Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has joined the cluster","timestamp":"2016-05-14T19:54:48.707Z"}
+{"level":"notice","message":"pid: 10543","timestamp":"2016-05-14T19:54:48.799Z"}
+{"level":"notice","message":"server ID: 192.168.1.26","timestamp":"2016-05-14T19:54:48.799Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"2016-05-14T19:54:48.807Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"2016-05-14T19:54:48.815Z"}
+{"level":"notice","message":"environment: development","timestamp":"2016-05-14T19:54:49.325Z"}
+{"level":"notice","message":"*** Server Started ***","timestamp":"2016-05-14T19:54:49.326Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2016-05-14T19:55:23.855Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2016-05-14T19:55:23.887Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has joined the cluster","timestamp":"2016-05-14T19:55:23.898Z"}
+{"level":"notice","message":"pid: 10573","timestamp":"2016-05-14T19:55:23.989Z"}
+{"level":"notice","message":"server ID: 192.168.1.26","timestamp":"2016-05-14T19:55:23.990Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"2016-05-14T19:55:23.996Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"2016-05-14T19:55:24.004Z"}
+{"level":"notice","message":"environment: development","timestamp":"2016-05-14T19:55:24.495Z"}
+{"level":"notice","message":"*** Server Started ***","timestamp":"2016-05-14T19:55:24.496Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2016-05-14T19:56:08.536Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2016-05-14T19:56:08.569Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has joined the cluster","timestamp":"2016-05-14T19:56:08.578Z"}
+{"level":"notice","message":"pid: 10642","timestamp":"2016-05-14T19:56:08.676Z"}
+{"level":"notice","message":"server ID: 192.168.1.26","timestamp":"2016-05-14T19:56:08.677Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"2016-05-14T19:56:08.683Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"2016-05-14T19:56:08.692Z"}
+{"level":"notice","message":"environment: development","timestamp":"2016-05-14T19:56:09.230Z"}
+{"level":"notice","message":"*** Server Started ***","timestamp":"2016-05-14T19:56:09.230Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2016-05-14T19:58:36.044Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2016-05-14T19:58:36.076Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has joined the cluster","timestamp":"2016-05-14T19:58:36.086Z"}
+{"level":"notice","message":"pid: 10765","timestamp":"2016-05-14T19:58:36.178Z"}
+{"level":"notice","message":"server ID: 192.168.1.26","timestamp":"2016-05-14T19:58:36.179Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"2016-05-14T19:58:36.185Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"2016-05-14T19:58:36.193Z"}
+{"level":"notice","message":"environment: development","timestamp":"2016-05-14T19:58:36.686Z"}
+{"level":"notice","message":"*** Server Started ***","timestamp":"2016-05-14T19:58:36.687Z"}
+{"to":"127.0.0.1","action":"mongoAction","params":"{\"first_name\":\"Jose\",\"last_name\":\"Estrada\",\"password\":\"12345\",\"action\":\"mongoAction\",\"apiVersion\":1}","duration":1,"error":"[object Object]","level":"info","message":"[ action @ web ]","timestamp":"2016-05-14T19:58:40.023Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2016-05-14T19:59:01.256Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2016-05-14T19:59:01.288Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has joined the cluster","timestamp":"2016-05-14T19:59:01.296Z"}
+{"level":"notice","message":"pid: 10798","timestamp":"2016-05-14T19:59:01.385Z"}
+{"level":"notice","message":"server ID: 192.168.1.26","timestamp":"2016-05-14T19:59:01.386Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"2016-05-14T19:59:01.392Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"2016-05-14T19:59:01.400Z"}
+{"level":"notice","message":"environment: development","timestamp":"2016-05-14T19:59:01.897Z"}
+{"level":"notice","message":"*** Server Started ***","timestamp":"2016-05-14T19:59:01.897Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2016-05-14T19:59:31.652Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2016-05-14T19:59:31.684Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has joined the cluster","timestamp":"2016-05-14T19:59:31.694Z"}
+{"level":"notice","message":"pid: 10828","timestamp":"2016-05-14T19:59:31.784Z"}
+{"level":"notice","message":"server ID: 192.168.1.26","timestamp":"2016-05-14T19:59:31.785Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"2016-05-14T19:59:31.792Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"2016-05-14T19:59:31.799Z"}
+{"level":"notice","message":"environment: development","timestamp":"2016-05-14T19:59:32.310Z"}
+{"level":"notice","message":"*** Server Started ***","timestamp":"2016-05-14T19:59:32.310Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2016-05-14T20:00:32.431Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2016-05-14T20:00:32.464Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has joined the cluster","timestamp":"2016-05-14T20:00:32.473Z"}
+{"level":"notice","message":"pid: 10874","timestamp":"2016-05-14T20:00:32.564Z"}
+{"level":"notice","message":"server ID: 192.168.1.26","timestamp":"2016-05-14T20:00:32.565Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"2016-05-14T20:00:32.571Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"2016-05-14T20:00:32.579Z"}
+{"level":"notice","message":"environment: development","timestamp":"2016-05-14T20:00:33.084Z"}
+{"level":"notice","message":"*** Server Started ***","timestamp":"2016-05-14T20:00:33.085Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2016-05-14T20:01:00.293Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2016-05-14T20:01:00.324Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has joined the cluster","timestamp":"2016-05-14T20:01:00.334Z"}
+{"level":"notice","message":"pid: 10901","timestamp":"2016-05-14T20:01:00.424Z"}
+{"level":"notice","message":"server ID: 192.168.1.26","timestamp":"2016-05-14T20:01:00.424Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"2016-05-14T20:01:00.432Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"2016-05-14T20:01:00.439Z"}
+{"level":"notice","message":"environment: development","timestamp":"2016-05-14T20:01:00.940Z"}
+{"level":"notice","message":"*** Server Started ***","timestamp":"2016-05-14T20:01:00.941Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2016-05-14T20:05:16.127Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2016-05-14T20:05:16.158Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has joined the cluster","timestamp":"2016-05-14T20:05:16.166Z"}
+{"level":"notice","message":"pid: 11068","timestamp":"2016-05-14T20:05:16.256Z"}
+{"level":"notice","message":"server ID: 192.168.1.26","timestamp":"2016-05-14T20:05:16.256Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"2016-05-14T20:05:16.263Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"2016-05-14T20:05:16.271Z"}
+{"level":"notice","message":"environment: development","timestamp":"2016-05-14T20:05:16.784Z"}
+{"level":"notice","message":"*** Server Started ***","timestamp":"2016-05-14T20:05:16.785Z"}
+{"to":"127.0.0.1","action":"mongoAction","params":"{\"first_name\":\"Jose\",\"last_name\":\"Estrada\",\"password\":\"12345\",\"action\":\"mongoAction\",\"apiVersion\":1}","duration":1,"error":"[object Object]","level":"info","message":"[ action @ web ]","timestamp":"2016-05-14T20:05:19.858Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2016-05-14T20:05:52.796Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2016-05-14T20:05:52.828Z"}
+{"level":"info","message":"actionhero member 192.168.1.26 has joined the cluster","timestamp":"2016-05-14T20:05:52.838Z"}
+{"level":"notice","message":"pid: 11102","timestamp":"2016-05-14T20:05:52.928Z"}
+{"level":"notice","message":"server ID: 192.168.1.26","timestamp":"2016-05-14T20:05:52.928Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"2016-05-14T20:05:52.935Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"2016-05-14T20:05:52.943Z"}
+{"level":"notice","message":"environment: development","timestamp":"2016-05-14T20:05:53.458Z"}
+{"level":"notice","message":"*** Server Started ***","timestamp":"2016-05-14T20:05:53.459Z"}
+{"to":"127.0.0.1","action":"mongoAction","params":"{\"first_name\":\"Jose\",\"last_name\":\"Estrada\",\"password\":\"12345\",\"action\":\"mongoAction\",\"apiVersion\":1}","duration":2,"level":"info","message":"[ action @ web ]","timestamp":"2016-05-14T20:05:55.388Z"}

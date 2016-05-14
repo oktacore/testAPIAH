@@ -9,6 +9,10 @@ instalación de ah-mongoose-plugin
 * agregarlo al array de plugins: ./node_modules/.bin/actionhero link --name ah-mongoose-plugin
 
 
+Instalar mongoose cli
+* npm install -g mongoose-model-cli
+
+
 `npm install`
 
 ## To Run:

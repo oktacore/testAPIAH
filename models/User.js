@@ -1,34 +1,55 @@
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
-var Types = mongoose.Types;
+/*if (mongoose.connection.readyState === 0) {
+    mongoose.connect(require('./connection-string'));
+}*/
 
-var userSchema = mongoose.Schema({
-    createdAt: {
+
+var userSchema = new Schema({
+
+    'first_name': {
+        type: String
+    },
+    'last_name': {
+        type: String
+    },
+    'password': {
+        type: String
+    },
+    'createdAt': {
         type: Date,
-        default: Date.now,
-        required: true
+        default: Date.now
     },
-    updatedAt: {
+    'updatedAt': {
         type: Date,
-        required: false
-    },
-    email: {
-        type: String,
-        required: true
-    },
-    first_name: {
-        type: String,
-        required: true
-    },
-    last_name: {
-        type: String,
-        required: true
-    },
-    password: {
-        type: String,
-        required: true
+        default: Date.now
     }
 });
+
+userSchema.pre('save', function (next) {
+    this.updatedAt = Date.now();
+    next();
+});
+/*
+userSchema.pre('update', function () {
+    this.update({}, {
+        $set: {
+            updatedAt: Date.now()
+        }
+    });
+});
+
+userSchema.pre('findOneAndUpdate', function () {
+    this.update({}, {
+        $set: {
+            updatedAt: Date.now()
+        }
+    });
+});
+
+
+
+module.exports = mongoose.model('User', userSchema);*/
 
 userSchema.virtual('full_name').get(function () {
     return this.first_name + ' ' + this.last_name;

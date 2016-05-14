@@ -52,5 +52,6 @@
 	"!     at Object.<anonymous> (/home/usuario/documents/Desarrollo_Oktacore/testAPIAH/actions/mongoAction.js:17:3)": "!     at Object.<anonymous> (/home/usuario/documents/Desarrollo_Oktacore/testAPIAH/actions/mongoAction.js:17:3)",
 	"unknown action or invalid apiVersion": "unknown action or invalid apiVersion",
 	"action reloaded: %s @ v%s, %s": "action reloaded: %s @ v%s, %s",
-	"*** actionhero restarted ***": "*** actionhero restarted ***"
+	"*** actionhero restarted ***": "*** actionhero restarted ***",
+	"*** Rebooting due to initializer change (%s) ***": "*** Rebooting due to initializer change (%s) ***"
 }
