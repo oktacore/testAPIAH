@@ -4,6 +4,10 @@
 
 ## To install:
 (assuming you have [node](http://nodejs.org/) and NPM installed)
+instalación de ah-mongoose-plugin
+* npm install ah-mongoose-plugin --save
+* agregarlo al array de plugins: ./node_modules/.bin/actionhero link --name ah-mongoose-plugin
+
 
 `npm install`
 
