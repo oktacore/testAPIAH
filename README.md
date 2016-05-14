@@ -12,6 +12,9 @@ instalación de ah-mongoose-plugin
 Instalar mongoose cli
 * npm install -g mongoose-model-cli
 
+Crear Action
+* node_modules/.bin/actionhero generateAction --name=myAction
+
 
 `npm install`
 

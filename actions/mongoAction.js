@@ -24,7 +24,7 @@ exports.action = {
 
     run: function (api, data, next) {
         //let error = null;
-        api.mongoInit.saveUser(data.params, function(error, res){
+        api.mongoInit.saveUser(data.params, function (error, res) {
             data.response = res;
             next(error);
         });

@@ -53,5 +53,13 @@
 	"unknown action or invalid apiVersion": "unknown action or invalid apiVersion",
 	"action reloaded: %s @ v%s, %s": "action reloaded: %s @ v%s, %s",
 	"*** actionhero restarted ***": "*** actionhero restarted ***",
-	"*** Rebooting due to initializer change (%s) ***": "*** Rebooting due to initializer change (%s) ***"
+	"*** Rebooting due to initializer change (%s) ***": "*** Rebooting due to initializer change (%s) ***",
+	"! SyntaxError: Unexpected token )": "! SyntaxError: Unexpected token )",
+	"!     at exports.runInThisContext (vm.js:53:16)": "!     at exports.runInThisContext (vm.js:53:16)",
+	"!     at Module._compile (module.js:387:25)": "!     at Module._compile (module.js:387:25)",
+	"! SyntaxError: missing ) after argument list": "! SyntaxError: missing ) after argument list",
+	"!     at /home/usuario/documents/Desarrollo_Oktacore/testAPIAH/node_modules/actionhero/initializers/actions.js:70:21": "!     at /home/usuario/documents/Desarrollo_Oktacore/testAPIAH/node_modules/actionhero/initializers/actions.js:70:21",
+	"!     at /home/usuario/documents/Desarrollo_Oktacore/testAPIAH/node_modules/actionhero/initializers/config.js:49:15": "!     at /home/usuario/documents/Desarrollo_Oktacore/testAPIAH/node_modules/actionhero/initializers/config.js:49:15",
+	"!     at _combinedTickCallback (internal/process/next_tick.js:67:7)": "!     at _combinedTickCallback (internal/process/next_tick.js:67:7)",
+	"!     at process._tickDomainCallback (internal/process/next_tick.js:122:9)": "!     at process._tickDomainCallback (internal/process/next_tick.js:122:9)"
 }

@@ -15,12 +15,12 @@ module.exports = {
                     password: params.password,
                     error: false
                 });
-                console.log(api.config.mongoose);
+
                 person.save(function (err, person, numAffecte) {
                     if (err)
                         next(err, null);
 
-                    console.log('*************************\n', numAffecte, '*************************\n');
+                    //console.log('*************************\n', numAffecte, '*************************\n');
                     next(err, person);
                 });
             }
