@@ -4,7 +4,7 @@ exports.default = {
       auto_start: true,
       connection_string: "mongodb://localhost:27017/CHAPLISTEST",
       debug: true,
-      model_path: api.project_root + '/models'
+      model_path: '../models'
     }
   }
 }

@@ -9,6 +9,7 @@
   "dependencies": {
     "actionhero": "13.4.0",
     "ah-mongoose-plugin": "^0.1.2",
+    "mongoose": "^4.4.17",
     "ws": "latest"
   },
   "devDependencies": {

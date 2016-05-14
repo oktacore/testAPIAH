@@ -30,7 +30,7 @@ userSchema.pre('save', function (next) {
     this.updatedAt = Date.now();
     next();
 });
-/*
+
 userSchema.pre('update', function () {
     this.update({}, {
         $set: {
@@ -49,9 +49,9 @@ userSchema.pre('findOneAndUpdate', function () {
 
 
 
-module.exports = mongoose.model('User', userSchema);*/
+module.exports = mongoose.model('User', userSchema);
 
-userSchema.virtual('full_name').get(function () {
+/*userSchema.virtual('full_name').get(function () {
     return this.first_name + ' ' + this.last_name;
 });
 
@@ -74,3 +74,4 @@ module.exports = {
     model: _model,
     findByEmail: _findByEmail
 }
+*/

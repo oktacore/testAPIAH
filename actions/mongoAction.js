@@ -8,7 +8,7 @@ exports.action = {
     matchExtensionMimeType: false,
     version: 1.0,
     toDocument: true,
-    middleware: [],
+    middleware: ['userId checker'],
 
     inputs: {
         first_name: {
@@ -28,6 +28,5 @@ exports.action = {
             data.response = res;
             next(error);
         });
-        //next(data.params.name);
     }
 };
