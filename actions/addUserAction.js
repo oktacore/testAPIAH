@@ -8,7 +8,7 @@ exports.action = {
   matchExtensionMimeType: false,
   version: 1.0,
   toDocument: true,
-  middleware: ['userId checker'],
+  middleware: ['userId checker','midCheckToken'],
 
   inputs: {
     first_name: {
@@ -19,12 +19,14 @@ exports.action = {
     },
     password: {
       required: true
+    },
+    token: {
+      required: true
     }
   },
 
   run: function (api, data, next) {
-    console.log(api.models);
-    api.mongoInit.saveUser(data.params, function (error, res) {
+    api.mongoInit.addUser(data.params, function (error, res) {
       data.response = res;
       next(error);
     });

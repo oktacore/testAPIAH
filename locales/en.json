@@ -61,5 +61,21 @@
 	"!     at /home/usuario/documents/Desarrollo_Oktacore/testAPIAH/node_modules/actionhero/initializers/actions.js:70:21": "!     at /home/usuario/documents/Desarrollo_Oktacore/testAPIAH/node_modules/actionhero/initializers/actions.js:70:21",
 	"!     at /home/usuario/documents/Desarrollo_Oktacore/testAPIAH/node_modules/actionhero/initializers/config.js:49:15": "!     at /home/usuario/documents/Desarrollo_Oktacore/testAPIAH/node_modules/actionhero/initializers/config.js:49:15",
 	"!     at _combinedTickCallback (internal/process/next_tick.js:67:7)": "!     at _combinedTickCallback (internal/process/next_tick.js:67:7)",
-	"!     at process._tickDomainCallback (internal/process/next_tick.js:122:9)": "!     at process._tickDomainCallback (internal/process/next_tick.js:122:9)"
+	"!     at process._tickDomainCallback (internal/process/next_tick.js:122:9)": "!     at process._tickDomainCallback (internal/process/next_tick.js:122:9)",
+	"! Failed to load /home/tamyg/Documentos/testMongoAPIAH/actions/getToken.js": "! Failed to load /home/tamyg/Documentos/testMongoAPIAH/actions/getToken.js",
+	"! /home/tamyg/Documentos/testMongoAPIAH/actions/getToken.js:18": "! /home/tamyg/Documentos/testMongoAPIAH/actions/getToken.js:18",
+	"!     api.tokenInit.addUser(001, function (error, res) {": "!     api.tokenInit.addUser(001, function (error, res) {",
+	"!                           ^^^": "!                           ^^^",
+	"! SyntaxError: Octal literals are not allowed in strict mode.": "! SyntaxError: Octal literals are not allowed in strict mode.",
+	"!     at exports.runInThisContext (vm.js:73:16)": "!     at exports.runInThisContext (vm.js:73:16)",
+	"!     at Module._compile (module.js:443:25)": "!     at Module._compile (module.js:443:25)",
+	"!     at Object.Module._extensions..js (module.js:478:10)": "!     at Object.Module._extensions..js (module.js:478:10)",
+	"!     at Module.load (module.js:355:32)": "!     at Module.load (module.js:355:32)",
+	"!     at Function.Module._load (module.js:310:12)": "!     at Function.Module._load (module.js:310:12)",
+	"!     at Module.require (module.js:365:17)": "!     at Module.require (module.js:365:17)",
+	"!     at require (module.js:384:17)": "!     at require (module.js:384:17)",
+	"!     at Object.api.actions.loadFile (/home/tamyg/Documentos/testMongoAPIAH/node_modules/actionhero/initializers/actions.js:77:26)": "!     at Object.api.actions.loadFile (/home/tamyg/Documentos/testMongoAPIAH/node_modules/actionhero/initializers/actions.js:77:26)",
+	"!     at /home/tamyg/Documentos/testMongoAPIAH/node_modules/actionhero/initializers/actions.js:106:21": "!     at /home/tamyg/Documentos/testMongoAPIAH/node_modules/actionhero/initializers/actions.js:106:21",
+	"!     api.tokenInit.getToken(001, function (error, res) {": "!     api.tokenInit.getToken(001, function (error, res) {",
+	"!                            ^^^": "!                            ^^^"
 }

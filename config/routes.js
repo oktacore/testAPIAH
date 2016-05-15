@@ -27,9 +27,10 @@ exports['default'] = {
 
             ---------------------- */
         get: [
+          { path: '/Token', action: 'getToken' }
         ],
         post: [
-            { path: '/User', action: 'addUser' }
+            { path: '/User/:token', action: 'addUser' }
         ],
         put: [
             //{ path: '/App/:_id/:token', action: 'updateApp' },

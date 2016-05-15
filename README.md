@@ -16,7 +16,7 @@ Crear Action
 * node_modules/.bin/actionhero generateAction --name=(nombre)Action
 
 Crear Initializer
-* node_modules/.bin/actionhero generateAction --name=(nombre)Init
+* node_modules/.bin/actionhero generateInitializer --name=(nombre)Init
 
 `npm install`
 
