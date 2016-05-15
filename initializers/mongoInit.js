@@ -7,13 +7,12 @@ module.exports = {
     initialize: function (api, next) {
         api.mongoInit = {
             saveUser: function (params, next) {
-                var User = require(api.config.mongoose.model_path + '/User');
+                var User = api.mongoose.models.User;
 
                 var person = new User({
                     first_name: params.first_name,
                     last_name: params.last_name,
-                    password: params.password,
-                    error: false
+                    password: params.password
                 });
 
                 person.save(function (err, person, numAffecte) {
@@ -29,8 +28,6 @@ module.exports = {
         next();
     },
     start: function (api, next) {
-        var mongoose = require('mongoose');
-        mongoose.connect(api.config.mongoose.connection_string);
 
         var middleware = {
             name: 'userId checker',

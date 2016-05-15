@@ -3206,7 +3206,7 @@ module.exports = Primus;
 
 
 ;;;
-(function(exports){
+(function(exports){ 
 var ActionheroClient = function(options, client){
 
   var self = this;
@@ -3473,6 +3473,6 @@ ActionheroClient.prototype.disconnect = function(){
 // depricated lowercase name
 var actionheroClient = ActionheroClient;
 
-exports.ActionheroClient = ActionheroClient;
-exports.actionheroClient = actionheroClient;
+exports.ActionheroClient = ActionheroClient; 
+exports.actionheroClient = actionheroClient; 
 })(typeof exports === 'undefined' ? window : exports);

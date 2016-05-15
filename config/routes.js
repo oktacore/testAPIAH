@@ -29,7 +29,7 @@ exports['default'] = {
         get: [
         ],
         post: [
-            { path: '/Offer', action: 'mongoAction' }
+            { path: '/User', action: 'addUser' }
         ],
         put: [
             //{ path: '/App/:_id/:token', action: 'updateApp' },

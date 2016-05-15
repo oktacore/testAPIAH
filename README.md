@@ -13,8 +13,10 @@ Instalar mongoose cli
 * npm install -g mongoose-model-cli
 
 Crear Action
-* node_modules/.bin/actionhero generateAction --name=myAction
+* node_modules/.bin/actionhero generateAction --name=(nombre)Action
 
+Crear Initializer
+* node_modules/.bin/actionhero generateAction --name=(nombre)Init
 
 `npm install`
 
