@@ -1,4 +1,5 @@
 'use strict';
+var JSONAPISerializer = require('jsonapi-serializer').Serializer;
 
 exports.action = {
   name: 'addUser',
@@ -27,7 +28,15 @@ exports.action = {
 
   run: function (api, data, next) {
     api.mongoInit.addUser(data.params, function (error, res) {
-      data.response = res;
+      if(error)
+      data.error = error;
+      var NoteSerializer = new JSONAPISerializer('user', {
+        id: '_id',
+        attributes: ['first_name', 'last_name', 'password'],
+        pluralizeType: false
+      });
+      var newNote = NoteSerializer.serialize(res);
+      data.response = newNote;
       next(error);
     });
   }

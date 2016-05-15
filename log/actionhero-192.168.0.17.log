@@ -966,3 +966,17 @@
 {"to":"127.0.0.1","action":"getToken","params":"{\"action\":\"getToken\",\"apiVersion\":1}","duration":20,"level":"info","message":"[ action @ web ]","timestamp":"2016-05-15T05:12:29.044Z"}
 {"to":"127.0.0.1","action":"addUser","params":"{\"first_name\":\"tamy\",\"last_name\":\"vivas\",\"password\":\"abc123**\",\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjEsImlhdCI6MTQ2MzI4OTE0OSwiZXhwIjoxNDY0NTg1MTQ5fQ.__FI\",\"action\":\"addUser\",\"apiVersion\":1}","duration":45,"level":"info","message":"[ action @ web ]","timestamp":"2016-05-15T05:12:47.181Z"}
 {"to":"127.0.0.1","action":"getToken","params":"{\"action\":\"getToken\",\"apiVersion\":1}","duration":2,"level":"info","message":"[ action @ web ]","timestamp":"2016-05-15T05:12:59.960Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing...","timestamp":"2016-05-15T05:19:13.844Z"}
+{"level":"notice","message":"Stopping server: web","timestamp":"2016-05-15T05:19:13.848Z"}
+{"level":"notice","message":"Stopping server: websocket","timestamp":"2016-05-15T05:19:13.851Z"}
+{"level":"info","message":"actionhero member 192.168.0.17 has left the cluster","timestamp":"2016-05-15T05:19:13.860Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2016-05-15T05:19:16.659Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2016-05-15T05:19:16.698Z"}
+{"level":"info","message":"actionhero member 192.168.0.17 has joined the cluster","timestamp":"2016-05-15T05:19:16.711Z"}
+{"level":"notice","message":"pid: 3932","timestamp":"2016-05-15T05:19:17.273Z"}
+{"level":"notice","message":"server ID: 192.168.0.17","timestamp":"2016-05-15T05:19:17.275Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"2016-05-15T05:19:17.289Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"2016-05-15T05:19:17.305Z"}
+{"level":"notice","message":"environment: development","timestamp":"2016-05-15T05:19:18.139Z"}
+{"level":"notice","message":"*** Server Started ***","timestamp":"2016-05-15T05:19:18.150Z"}
+{"to":"127.0.0.1","action":"addUser","params":"{\"first_name\":\"tamy\",\"last_name\":\"vivas\",\"password\":\"abc123**\",\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjEsImlhdCI6MTQ2MzI4OTE0OSwiZXhwIjoxNDY0NTg1MTQ5fQ.__FI\",\"action\":\"addUser\",\"apiVersion\":1}","duration":47,"level":"info","message":"[ action @ web ]","timestamp":"2016-05-15T05:19:23.574Z"}
