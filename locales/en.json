@@ -77,5 +77,8 @@
 	"!     at Object.api.actions.loadFile (/home/tamyg/Documentos/testMongoAPIAH/node_modules/actionhero/initializers/actions.js:77:26)": "!     at Object.api.actions.loadFile (/home/tamyg/Documentos/testMongoAPIAH/node_modules/actionhero/initializers/actions.js:77:26)",
 	"!     at /home/tamyg/Documentos/testMongoAPIAH/node_modules/actionhero/initializers/actions.js:106:21": "!     at /home/tamyg/Documentos/testMongoAPIAH/node_modules/actionhero/initializers/actions.js:106:21",
 	"!     api.tokenInit.getToken(001, function (error, res) {": "!     api.tokenInit.getToken(001, function (error, res) {",
-	"!                            ^^^": "!                            ^^^"
+	"!                            ^^^": "!                            ^^^",
+	"Cannot shut down actionhero, not running": "Cannot shut down actionhero, not running",
+	"yJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjEsImlhdCI6MTQ2MzMzMzM2MCwiZXhwIjoxNDY0NjI5MzYwfQ.CLFviuxMvSRx4E4SvARhF-Q-Kz80DBXnCsyGsYI2p0k": "yJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjEsImlhdCI6MTQ2MzMzMzM2MCwiZXhwIjoxNDY0NjI5MzYwfQ.CLFviuxMvSRx4E4SvARhF-Q-Kz80DBXnCsyGsYI2p0k",
+	"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjEsImlhdCI6MTQ2MzMzMzk2MiwiZXhwIjoxNDY0NjI5OTYyfQ.ku2SzpbgKJGRWz76QUKCFPbPkO3xmIZNReb1gy82pmI": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjEsImlhdCI6MTQ2MzMzMzk2MiwiZXhwIjoxNDY0NjI5OTYyfQ.ku2SzpbgKJGRWz76QUKCFPbPkO3xmIZNReb1gy82pmI"
 }

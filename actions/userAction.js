@@ -1,7 +1,7 @@
 'use strict';
 var JSONAPISerializer = require('jsonapi-serializer').Serializer;
 
-exports.action = {
+exports.addUser = {
   name: 'addUser',
   description: 'addUser',
   blockedConnectionTypes: [],

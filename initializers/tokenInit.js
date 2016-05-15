@@ -16,10 +16,27 @@ module.exports = {
         };
         var tokenJWT = jwt.sign(payload, api.config.general.TOKEN_SECRET);
         next(null, tokenJWT);
+      },
+      /*-----------------------------------------------*/
+      validateToken: function(token, next){
+        jwt.verify(token, api.config.general.TOKEN_SECRET, function(err, decoded) {      
+          if(err)
+            return next(err);
+
+          if(decoded.exp <= moment().unix()){
+            next(new Error('El token utilizado ha expirado'));
+          }
+          else{
+            var _id = decoded.sub;
+            if(_id !== 1)
+              next(new Error('El token utilizado no es válido'));
+            else
+              next();
+          }
+        });
       }
       /*-----------------------------------------------*/
-    };
-
+    }
     next();
   },
   start: function(api, next){
