@@ -14,8 +14,7 @@ module.exports = {
       preProcessor: function (data, next) {
         var token = data.params.token;
         if(!token){
-          next(new Error('Necesita un token para realizar su petición'));
-          return;
+          return next(new Error('Necesita un token para realizar su petición'));
         }
         api.tokenInit.validateToken(token, function(error){
           next(error);

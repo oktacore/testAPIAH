@@ -27,7 +27,8 @@ exports['default'] = {
 
             ---------------------- */
         get: [
-          { path: '/Token', action: 'getToken' }
+          { path: '/Token', action: 'getToken', apiVersion: 1 },
+          { path: '/Token', action: 'getToken', apiVersion: 2 }
         ],
         post: [
             { path: '/User/:token', action: 'addUser' }
